@@ -119,5 +119,7 @@ This project requires the updated Python version in Colab and the following Pyth
 * Basic Libraries: [NumPy](http://www.numpy.org/), [Matplotlib](http://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
 * Deep-learning Frameworks: [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/)
 
+## Contact
+
 📨 For any discussion kindly contact me here: elsanhy.en@gmail.com | Linked-In: https://www.linkedin.com/in/elsanurul/
 
